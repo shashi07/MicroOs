@@ -49,7 +49,7 @@ void getcmd(char cmd[],int n){
 	}
 
 	cmd[i] = '\0';
-	//printch('0'+i);
+	printch('0'+i);
 }
 
 void shell(char* cmd)

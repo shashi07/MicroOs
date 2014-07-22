@@ -2,12 +2,10 @@
 #include "../drivers/display.h"
 void help()
 {
-	print("\nWelcome to MicroOS");
-    print("\nT.E. Mini Project");
-    print("\nGroup D10\n 39 - Shashi Bhushan Mishra");
-    print("\n43 - Siddharth Kumar");
-    print("\n44 - Saurabh Somani");
-    print("\n47 - Yashodhan Tak ");
+    print("\nWelcome to MicroOs");
+    print("\nThis OS is made by-");
+    print("\nShashi Bhushan Mishra");
+    print("\nSiddharth Kumar");
         
 }
 
