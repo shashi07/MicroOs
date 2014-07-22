@@ -1,13 +1,14 @@
 
 MicroOs
-_______________________
+=======================
 MicroOs is scale downed version of a bootable Operating System written in assembly and C. The OS consists
 of basic features like booting of the OS, interrupt and exception handling, basic device drivers for display and
 keyboard, and a basic shell.
 
 Developed by :
-_________________
+------------------------
 Shashi Bhushan Mishra - shashi.mishra43@gmail.com
+
 Siddharth Kumar - siddharth306@gmail.com
 
 
