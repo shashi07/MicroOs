@@ -14,21 +14,26 @@ Siddharth Kumar - siddharth306@gmail.com
 Installation :
 --------------------
 
-1) clone repository using the following command
-	git clone https://github.com/shashi07/MicroOs.git
-2) install bochs
-	sudo apt-get install bochs
-3) install nasm
-	sudo apt-get install nasm
-4) install sdl 
+1. clone repository using the following command
+	`git clone https://github.com/shashi07/MicroOs.git`
+2. install bochs
+	`sudo apt-get install bochs`
+3. install nasm
+	`sudo apt-get install nasm`
+
+4. install sdl 
+```
 	sudo apt-get install libsdl2-dev
 	sudo apt-get install bochs-sdl
+```
 
-
-Compiling :	
+Compiling :
+```	
 	>>cd MicroOs
 	>>make clean
 	>>make 
-
+```
 now run bochs 
+```
 	>> bochs 
+```
